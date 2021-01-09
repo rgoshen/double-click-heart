@@ -1,2 +1,2 @@
-# 50_projects_template
-Simple template for creating 50_projects  Udemy course.
+# Double Click Heart
+Github profiles project using HTML, CSS and JS.
